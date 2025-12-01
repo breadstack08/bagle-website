@@ -90,14 +90,14 @@ h2 { font-size: 2.2rem; }
 	height: 500px;
 }
 
-.about-img-container { background-image: url('about-img.png');	}
+.about-img-container { background-image: url('https://images6.alphacoders.com/817/817113.jpg');	}
 .blog-img-container { background-image: url('../img/blog-img.jpg'); }
 .contact-img-container { background-image: url('../img/contact-img.jpg'); }
 
 .about-img-container,
 .blog-img-container,
 .contact-img-container {
-	background-size: auto 200px;
+	background-size: auto;
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 200px;
