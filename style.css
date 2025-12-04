@@ -83,23 +83,23 @@ h2 { font-size: 2.2rem; }
 }
 
 .home-img-container {
-	background-image: url('../img/baguh banner.jpg');
+	background-image: url('https://images3.alphacoders.com/132/thumb-1920-1323977.png');
 	background-size: 100%;
 	background-position: center bottom;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	height: 500px;
 }
 
-.about-img-container { background-image: url('https://images6.alphacoders.com/817/817113.jpg');	}
-.blog-img-container { background-image: url('../img/blog-img.jpg'); }
-.contact-img-container { background-image: url('../img/contact-img.jpg'); }
+.about-img-container { background-image: url('https://www.tastingtable.com/img/gallery/how-to-choose-the-right-flour-for-bagels-with-your-preferred-texture/l-intro-1717592560.jpg');	}
+.blog-img-container { background-image: url('https://images8.alphacoders.com/132/1323978.png'); }
+.contact-img-container { background-image: url('https://images5.alphacoders.com/817/thumb-1920-817106.jpg'); }
 
 .about-img-container,
 .blog-img-container,
 .contact-img-container {
 	background-size: auto;
 	background-position: center;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	height: 200px;
 }
 
@@ -248,7 +248,7 @@ p { line-height: 1.9; }
 	.container-fluid {
 		padding-left: 4%;
 		padding-right: 4%;
-		background-color:none;
+		background-color:;
 	}
 }
 
